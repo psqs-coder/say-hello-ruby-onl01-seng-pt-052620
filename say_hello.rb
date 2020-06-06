@@ -1,4 +1,4 @@
-def greeting ("Hell0")
-  puts say_hello #{Gabriella}
+def greeting ("say_Hello")
+  put say_Hello {gabriela}
   
 end
